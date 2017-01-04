@@ -11,7 +11,7 @@
   the output will be formatted and filtered for use with other shell tools.
 
 ## Setup
-* Be sure, I've installed required components to sucessfully run the script.
+* Be sure, you've installed all the required components to sucessfully run the script.
 
 * [Generate GitHub OAuth token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) which is required to run script (allows rate limit 5000 instead of 60).
 
